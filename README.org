@@ -1,0 +1,5 @@
+#+TITLE: Hide Comments Mode
+#+AUTHOR: Laluxx
+#+DATE: [2024-11-17]
+#+OPTIONS: toc:2
+
